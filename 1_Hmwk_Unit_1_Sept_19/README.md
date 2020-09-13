@@ -1,7 +1,7 @@
 # Homework Unit 1
 ## FinTech Company Case Study
 
-![Consensys Logo](./images/consensys_logo.png)
+![Consensys Logo](./Images/consensys_logo.png)
 
 ### Overview and Origin
 * ConsenSys Inc.
