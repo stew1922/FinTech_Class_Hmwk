@@ -1,7 +1,7 @@
 # Homework Unit 1
 ## FinTech Company Case Study
 
-![Consensys Logo](./images/ConsenSys_logo.png)
+![Consensys Logo](./images/consensys_logo.png)
 
 ### Overview and Origin
 * ConsenSys Inc.
@@ -25,7 +25,7 @@
 * What are some of the core metrics that companies in the domain use to measure success?  How is this company performing based on those metrics?
 * How are they performing relative to competitors?
 
-### Reccomendations
+### Recommendations
 * What products/services would you advise the company offer?
 * why would offering thie product/service benefit the company?
 * What technologies would this utilize?
