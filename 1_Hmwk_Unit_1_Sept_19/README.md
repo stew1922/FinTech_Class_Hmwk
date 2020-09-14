@@ -24,7 +24,10 @@
         * _Polychain Capital_: hedge fund that invests in blockchain projects and tokens.  
         * _[Coinbase Ventures](https://ventures.coinbase.com/)_: Coinbase is one of the most established crypto exchanges in the world and, in 2018, have begun to invest back into the industry they trade. Coinbase Ventures invests in early stage companies in order to spur development of the cyrpto ecosystem.
     * **Blockchain Development**:
-        
+        * _[IBM](https://www.ibm.com/blockchain)_: Perhaps the biggest name on this list, IBM is a staple in the technology field.  IBM has jumped into the blockchain fray and offers several blockchain services for the enterprise and supply chain level.
+        * _[Bitfury](https://bitfury.com/)_: a software and hardware development company that focuses on developing blockchain solutions. They also happen to be one of the most successful Bitcoin ASIC mining producers in the world. 
+        * _[LeewayHertz](https://www.leewayhertz.com/)_: A software development company that uses emerging technologies to solve their customer's issues.  From machine learning to robotic process automation to apps development, they cover just about all of it including blockchain development.
+
 
 ### Results
 * What has been the impact of the company so far?
